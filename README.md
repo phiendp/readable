@@ -14,3 +14,5 @@ This repository includes the code for the backend API Server and frontend that p
     - `cd frontend`
     - `npm install`
     - `npm start`
+
+* Then, access http://localhost:3000 to run the frontend application.
